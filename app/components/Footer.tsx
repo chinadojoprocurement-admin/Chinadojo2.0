@@ -12,17 +12,17 @@ const Footer = () => {
       {
          id: 1,
          icon: <FaTwitter className='text-xs text-white xl:text-base' /> ,
-         link: `https://x.com/chinadojo1688?s=21&t=HGoX0yHzBN1HaRY7_0r9dw`
+         link: `https://x.com/Chinadojo1688`
       },
       {
          id: 2,
          icon: <FaFacebookF className='text-xs text-white xl:text-base' />,
-         link: ``
+         link: `https://web.facebook.com/chinadojo1688`
       },
       {
          id: 3,
          icon: <FaInstagram className='text-xs text-white xl:text-base' />,
-         link: `https://www.instagram.com/chinadojologistics/profilecard/?igsh=NGFocHpkMDcyemRq`
+         link: `https://www.instagram.com/china_dojo/`
       },
       {
          id: 4,
@@ -180,7 +180,7 @@ const Footer = () => {
                <hr className='mt-0 w-full border-[#8A8A8A] md:mt-5 lg:mt-12 xl:mt-20' />
 
                <p className='text-[11px] text-white font-light pt-6 pb-2 text-center w-full xl:text-[13px] xl:pt-8 xl:pb-3'>
-                  © Copyright 2024, All Rights Reserved by chinadojo
+                  © Copyright 2026, All Rights Reserved by chinadojo
                </p>
 
          </div>
